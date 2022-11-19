@@ -19,3 +19,5 @@ main <- function(){
     print(typeof(opt))
     }
 
+main()
+
